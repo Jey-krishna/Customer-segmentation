@@ -1,4 +1,7 @@
 # Customer Segmentation Analysis
+
+![customer segmentation](customer_segmentation_mage.png)
+
 ## Project Overview
 The Customer Segmentation Analysis project aims to categorize customers into distinct groups based on their purchasing behavior and demographic characteristics. This segmentation helps businesses tailor their marketing strategies, enhance customer experience, and improve overall business performance.
 
